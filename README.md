@@ -5,7 +5,7 @@
 
 # Instructions
 # 1) put all files into a single directory (R script, data):
-#       - accumulative_t.R, climate_greeley.txt, climate_rf.txt, genotype_coef.csv()
+#       - accumulative_t.R, climate_greeley.txt, climate_rf.txt, genotype_coef.csv
 # 2) load libraries (6 lines of code following these comments)
 # 3) Run code 
 
