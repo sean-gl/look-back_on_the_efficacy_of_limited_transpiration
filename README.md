@@ -1,9 +1,9 @@
 # This script will 
-#  - fit segmented models using genotype-specific coefficients reported in Schoppach et al. 2017
-#  - build summary data-sets
-#  - reproduce plots S1 and S2
-#  - summarize citation data obtailed from Web of Science (WoS)
-#  - plot citation data obtained from WoS
+  - fit segmented models using genotype-specific coefficients reported in Schoppach et al. 2017
+  - build summary data-sets
+  - reproduce plots S1 and S2
+  - summarize citation data obtailed from Web of Science (WoS)
+  - plot citation data obtained from WoS
 #
 #
 # Instructions for calculating accumulative water use from coefficients published in Schoppach et al. 2017
