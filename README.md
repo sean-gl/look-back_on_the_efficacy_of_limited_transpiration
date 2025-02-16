@@ -1,4 +1,4 @@
-# <small> This script will </small> 
+# This script will 
 #  - fit segmented models using genotype-specific coefficients reported in Schoppach et al. 2017
 #  - build summary data-sets
 #  - reproduce plots S1 and S2
